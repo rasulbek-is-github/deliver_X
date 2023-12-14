@@ -1,0 +1,42 @@
+.btn-400{
+    cursor: pointer;
+    font-family: 'Roboto';
+    font-weight: 400;
+}
+.btn-700{
+    cursor: pointer;
+    font-family: 'Roboto';
+    font-weight: 700;
+}
+.rectangle--1{
+    width: 100%;
+    height: 1px;
+    border: 1px solid #cacaca;
+    margin: 14rem 0rem 20rem 0rem;
+}
+.rectangle--2{
+    width: 100%;
+    height: 1px;
+    border: 1px solid #cacaca;
+    margin: 10rem 0rem;
+}
+.rectangle--3{
+    width: 100%;
+    height: 1px;
+    border: 1px solid #cacaca;
+    margin: 10rem 0rem;
+}
+.rectangle--4{
+    width: 100%;
+    height: 1px;
+    border: 1px solid #cacaca;
+    margin: 10rem 0rem;
+}
+.download_btn{
+    color: var(--black-color);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+}
+.margin-extra{
+    margin-top: 2.4rem;
+}
